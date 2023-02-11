@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerCharacter.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Assets/_Shared/Materials/M_Fresnel_MasterMaterial.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/MyMacro.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Projectile.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Spinning.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Projectile_2.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthBar_Scorebar.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_checkpoint.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Timer.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Game_Over.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_coin.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/SuccessWidget.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_coin.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Platform.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score_bar.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthBar.uasset",
+				"C:/Users/zhang393/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score.uasset"
+			]
+		}
+	]
+}
